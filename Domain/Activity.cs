@@ -1,6 +1,6 @@
 namespace Domain
 {
-    public class Activity //Model or Entity
+    public class Activity //Model or Entity in the application
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
